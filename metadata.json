@@ -1,0 +1,5 @@
+{
+  "name": "Intelligent Metric Interpretation Assistant",
+  "description": "An AI-powered platform for data warehouse teams to automatically generate and manage metric interpretations based on table schemas and business requirements.",
+  "requestFramePermissions": []
+}
